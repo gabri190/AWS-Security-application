@@ -2,7 +2,7 @@
 Projeto pra desenvolver aplicação segura e com monitoramento zabbix
 
 ## Membros do grupo:
-- Felipe Schiavinato
+- Felipe Schiavinato Borges Souza
 - Gabriel de Araújo Alves
 
 ## Topologia
